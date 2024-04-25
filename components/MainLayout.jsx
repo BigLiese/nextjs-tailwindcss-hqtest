@@ -138,7 +138,7 @@ const MainLayout = ({}) => {
         <Slider {...settings}>
           {cards.slice(0, 3).map((card) => (
             <div
-              className={`${card.background} bg-no-repeat object-cover min-w-[416px] mr-20px`}
+              className={`${card.background} bg-no-repeat object-cover `}
               key={card.id}
             >
               <Card card={card} />

@@ -2,7 +2,7 @@ import React from "react";
 import { CiClock2 } from "react-icons/ci";
 const CardPicture = ({ card }) => {
   return (
-    <div className="bg-[length:416px_278px] max-w-[416px] h-[248px]">
+    <div className="bg-[length:416px_278px] mr-[20px] h-[248px]">
       <div
         style={{ backgroundImage: `${card.backgroundImageUrl}` }}
         className="max-w-[400px] h-[240px] ml-[18px] bg-no-repeat"

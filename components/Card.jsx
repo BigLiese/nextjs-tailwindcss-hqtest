@@ -6,7 +6,7 @@ import { BsBook } from "react-icons/bs";
 
 const Card = ({ card }) => {
   return (
-    <div className="bg-[length:416px_278px]  max-w-[416px] h-[248px] px-[40px] ">
+    <div className="bg-[length:416px_278px]  max-w-[416px] min-w-[416px] h-[248px] px-[40px] ">
       {card.id !== 2 && (
         <div
           className="h-[4px] w-[46px] my-[30px] rounded-xl"
