@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "CustomFont";
+  src: url("../../public/fonts/otf/neuemachina-light.otf") format("opentype"),
+    url("../../public/fonts/otf/neuemachina-regular.otf") format("opentype"),
+    url("../../public/fonts/otf/NEXT-Book-Bold-Italic.otf") format("opentype"),
+    url("../../public/fonts/otf/NEXT-Book-Bold.otf") format("opentype"),
+    url("../../public/fonts/otf/NEXT-Book-Italic.otf") format("opentype"),
+    url("../../public/fonts/otf/NEXT-Book-Regular.otf") format("opentype"),
+    url("../../public/fonts/otf/NEXT-Book-Thin-Italic.otf") format("opentype"),
+    url("../../public/fonts/otf/NEXT-Book-Thin.otf") format("opentype"),
+    url("../../public/fonts/otf/NEXT-Poster-Bold-Italic.otf") format("opentype"),
+    url("../../public/fonts/otf/NEXT-Poster-Bold.otf") format("opentype"),
+    url("../../public/fonts/otf/NEXT-Poster-Italic.otf") format("opentype"),
+    url("../../public/fonts/otf/NEXT-Poster-Regular.otf") format("opentype");
+}
