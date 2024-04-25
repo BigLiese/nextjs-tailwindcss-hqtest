@@ -61,7 +61,7 @@ const MainLayout = ({}) => {
 
   const fourthCard = cards[3];
   //console.log(fourthCard, "check the fourth card");
-  const slidesToShow = 3;
+  const slidesToShow = 2;
 
   const NextArrow = (props) => {
     const { className, onClick, currentSlide, slideCount } = props;
